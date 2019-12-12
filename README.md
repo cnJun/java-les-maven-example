@@ -17,7 +17,7 @@ pom.xml 文件是 Maven 的主要配置文件，配置项目的 `groupId`、`art
 4. 命令行下执行 `mvn --version`，如果能正确显示版本号，说明安装正确，比如显示内容如下：
 
     ```
-    ➜  java-les mvn --version
+    ➜ mvn --version
     Apache Maven 3.6.1 (d66c9c0b3152b2e69ee9bac180bb8fcc8e6af555; 2019-04-05T03:00:29+08:00)
     Maven home: /Users/sh/bin/mvn
     Java version: 1.8.0_212, vendor: Oracle Corporation, runtime: /Library/Java/JavaVirtualMachines/jdk1.8.0_212.jdk/Contents/Home/jre
